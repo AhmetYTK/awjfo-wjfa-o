@@ -2,28 +2,21 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://media.discordapp.net/attachments/737348411568685066/954502826791428136/codeshare_logo.png",
-      name: "Code Shop",
+      image: "https://marka-logo.com/wp-content/uploads/2020/12/Discord-Logo.png",
+      name: "Discord Sunucum",
       description:
-        "Publish your own software or images for free or for a fee. Earn money.",
-      link: "https://codeshare.xyz",
+        "YTK Hanedanlığı discord sunucusu",
+      link: "https://bit.ly/discordytk",
     },
     {
       id: 2,
-      image: "https://media.discordapp.net/attachments/737348411568685066/999563078079361074/YT_AVATAR_NET.jpg",
+      image: "https://yt3.ggpht.com/YCyvBzy14FHePAnfKtR4KePbew74f9pPmKNDQ56qtKXjMJD9T8Ho8RjNmdJOI_dmHrYYFn0RTw=s176-c-k-c0x00ffffff-no-rj-mo",
       name: "Youtube",
       description:
-        "I am a professional editor and intermediate software developer. I have been professionally interested in community management and development for 5 years, I have high level knowledge and experience in areas such as community management and social media management. I post videos about discord on my youtube channel.",
-      link: "https://youtube.com/UmutBayraktarYT",
+        " Merhaba ben Ahmet YTK Kanalımda vlog, eğlence ve nasıl yapılır videoları bulunuyor",
+      link: "https://youtube.com/AhmetYTK",
     },
-     {
-      id: 3,
-      image: "https://caoscrew.com/assets/images/team/KK.jpg",
-      name: "Caos Crew",
-      description:
-        "A magnificent and valuable nft collection of 8888 pieces.",
-      link: "https://caoscrew.com/",
-    }
+    
   ];
   res.status(200).json(data);
 };
