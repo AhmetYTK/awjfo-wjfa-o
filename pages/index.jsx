@@ -25,7 +25,8 @@ export default function Home() {
                   </Tippy>
      
               
-            </div> </div> </div>
+            </div> </div>
+             
             <br>
             <span style={{ zIndex: '-1' }} className="text-white/5 absolute bottom-3 left-7 text-xl sm:text-2xl md:text-4xl lg:text-3xl font-semibold">Community Manager</span>
           </div>
