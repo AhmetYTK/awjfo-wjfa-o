@@ -1,4 +1,4 @@
-timport Head from 'next/head'
+import Head from 'next/head'
 import Image from 'next/image'
 import swr from '../lib/swr';
 
@@ -36,5 +36,5 @@ export default function Home() {
         </div>
       </div>
     </>
-    }
+    )
 }
