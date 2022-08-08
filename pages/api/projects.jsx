@@ -16,6 +16,14 @@ export default async (req, res) => {
         "Kişisel Youtube Kanalım bu kanalda eğlence ve nasıl yapılır içerikleri bulunuyor.",
       link: "https://youtube.com/AhmetYTK",
     },
+    {
+      id: 3,
+      image: "https://bit.ly/3A0qR6j",
+      name: "Tomerminator Youtube Kanalı",
+      description:
+        "Tomerminator'ün Youtube Kanalı",
+      link: "https://bit.ly/tomeryt",
+    },
     
   ];
   res.status(200).json(data);
