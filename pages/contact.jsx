@@ -19,7 +19,7 @@ export default function Home() {
                         <i className="fab fa-instagram fa-2x" />
                         <p className="font-semibold text-xl">@oahmetytk</p>
                     </div>
-               
+               </a>
                 <a target="_blank" rel="norefferer" href="https://bit.ly/discordytk">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-discord fa-2x" />
