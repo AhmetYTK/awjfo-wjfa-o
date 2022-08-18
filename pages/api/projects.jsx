@@ -10,7 +10,7 @@ export default async (req, res) => {
     },
     {
       id: 2,
-      image: "https://yt3.ggpht.com/YCyvBzy14FHePAnfKtR4KePbew74f9pPmKNDQ56qtKXjMJD9T8Ho8RjNmdJOI_dmHrYYFn0RTw=s176-c-k-c0x00ffffff-no-rj-mo",
+      image: "bg-neutral-800/10 p-4 hover:bg-neutral-800/20 shadow-lg hover:shadow-xl transition-all duration-200 rounded-lg w-full",
       name: "Youtube",
       description:
         "Kişisel Youtube Kanalım bu kanalda eğlence ve nasıl yapılır içerikleri bulunuyor.",
