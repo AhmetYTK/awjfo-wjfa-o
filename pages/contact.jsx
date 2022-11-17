@@ -29,7 +29,7 @@ export default function Home() {
                 <a href="mailto:ahmetytk2@gmail.com">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fa fa-envelope fa-2x" />
-                        <p className="font-semibold text-xl">ahmetytk2@gmail.com</p>
+                        <p className="font-semibold text-xl">aozyilmaz005@gmail.com</p>
                     </div>
                 </a>
             </div>
