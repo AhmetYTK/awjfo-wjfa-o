@@ -4,7 +4,7 @@ const items = [
     { icon: 'fab fa-twitch', link: 'https://twitch.com/ahmetytk0' },
     { icon: 'fab fa-discord', link: 'https://bit.ly/discordytk' },
     { icon: 'fab fa-instagram', link: 'https://instagram.com/oahmetytk' },
-    { icon: 'fab fa-facebook', link: 'https://facebook.com/' },
+    { icon: 'fab fa-facebook', link: 'https://bit.ly/3R5Lu9h' },
     { icon: 'fab fa-github', link: 'https://github.com/ahmetytk' },
   ]
 
