@@ -35,7 +35,7 @@ export default function Home() {
         <div className="py-20">
         <p className="text-3xl text-white font-semibold">GitHub Projelerim</p>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 w-full gap-4 items-center mt-2">
+        <div className="mt-2">
 <p>Merhaba, ben Ahmet. Lise öğrencisi olarak, YouTube ve Instagram gibi platformlarda içerik üretiyorum. Özellikle Nasıl yapılır, oyun ve araba incelemesi konularını işliyorum. İzleyicilerime eğlenceli ve bilgilendirici içerikler sunmaya çalışıyorum. Ayrıca, yaptığımız Instagram içerikleriyle insanların araba özelliklerine ulaşmasını kolaylaştırmak istiyorum. İnstagram hesabımda güncel Araba gelişmelerini paylaşıyorum ve yaptığım oyun videolarını YouTube kanalımda yayınlıyorum. Siz de benimle birlikte eğlenmek ve bilgi sahibi olmak isterseniz, lütfen YouTube kanalıma abone olup, Instagram hesabımızı takip etmeyi unutmayın!</p>
         </div>
       </div>
