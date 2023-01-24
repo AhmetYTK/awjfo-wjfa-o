@@ -17,9 +17,9 @@ export default function Home() {
                 <p className="flex items-center text-white text-4xl font-semibold">
                   AhmetYTK
                 </p>
-                  <Tippy content={`Ofline`} animation="shift-away" arrow={false}>
-                    <span className={`ml-2 text-Ofline px-2 py-1 font-normal rounded-md text-sm`}>
-                          <i className={`fa fa-circle text-Ofline mr-1`} />Çevrim dışı
+                  <Tippy content={`Offline`} animation="shift-away" arrow={false}>
+                    <span className={`ml-2 text-Offline px-2 py-1 font-normal rounded-md text-sm`}>
+                          <i className={`fa fa-circle text-Offline mr-1`} />Çevrim dışı
                     </span>
                   </Tippy>
      
