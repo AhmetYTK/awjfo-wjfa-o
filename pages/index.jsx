@@ -19,7 +19,7 @@ export default function Home() {
                 </p>
                   <Tippy content={`Online`} animation="shift-away" arrow={false}>
                     <span className={`ml-2 text-online px-2 py-1 font-normal rounded-md text-sm`}>
-                          <i className={`fa fa-circle text-online mr-2`} />Online
+                          <i className={`fa fa-circle text-online mr-2`} />Çevrim dışı
                     </span>
                   </Tippy>
      
@@ -33,7 +33,7 @@ export default function Home() {
 
 
         <div className="py-20">
-        <p className="text-3xl text-white font-semibold">GitHub Projelerim</p>
+        <p className="text-3xl text-white font-semibold">Hakkımda</p>
 
         <div className="mt-2">
 <p>Merhaba, ben Ahmet. Lise öğrencisi olarak, YouTube ve Instagram gibi platformlarda içerik üretiyorum. Özellikle Nasıl yapılır, oyun ve araba incelemesi konularını işliyorum. İzleyicilerime eğlenceli ve bilgilendirici içerikler sunmaya çalışıyorum. Ayrıca, yaptığımız Instagram içerikleriyle insanların araba özelliklerine ulaşmasını kolaylaştırmak istiyorum. İnstagram hesabımda güncel Araba gelişmelerini paylaşıyorum ve yaptığım oyun videolarını YouTube kanalımda yayınlıyorum. Siz de benimle birlikte eğlenmek ve bilgi sahibi olmak isterseniz, lütfen YouTube kanalıma abone olup, Instagram hesabımızı takip etmeyi unutmayın!</p>
